@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1591057939 source:c:\users\zeiche\desktop\kursova-posledno\letters.c
+	"Letters.h"
+
+1591047922 c:\users\zeiche\desktop\kursova-posledno\letters.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1591047961 source:c:\users\zeiche\desktop\kursova-posledno\main.c
+	"Letters.h"
+
